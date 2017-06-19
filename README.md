@@ -1,12 +1,14 @@
 "# pydraw" 
+
 Python drawing application
 ==========================
 
 Uses pygame library, install it with (for windows users) :
 py -m pip install pygame --user
-this assumes you have added python path variables when you installed it.#
+this assumes you have added python path variables when you installed it.
+
 About Pydraw :
-===============
+
 This project is an art program that lets you draw with gradients. The gradient code has been implemented in the Draw function and the Floodfill function. It will use a gradient from the Left colour to the Right colour. You can select a new colour by clicking the palette with left or right button. (The palette is dynamically generated, and can be made larger or smaller by changing the palette_size variable in the code.)
 
 You can set the brush size and gradient length (how fast it changes) by rolling the mouse wheel over one of the 2 text boxes.
