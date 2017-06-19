@@ -1,5 +1,6 @@
 "# pydraw" 
 Python drawing application
+==========================
 
 Uses pygame library, install it with (for windows users) :
 py -m pip install pygame --user
